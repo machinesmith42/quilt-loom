@@ -1,4 +1,4 @@
-# Fabric Loom
+# Quilt Loom
 
 A [Gradle](https://gradle.org/) plugin to setup a deobfuscated development environment for Minecraft mods. Primarily used in the Fabric toolchain.
 
